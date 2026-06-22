@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
