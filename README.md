@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
