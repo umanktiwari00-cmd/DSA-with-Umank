@@ -10,15 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -30,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -42,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
