@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0136-single-number) |
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
