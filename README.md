@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0485-max-consecutive-ones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0229-majority-element-ii](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
