@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-        unordered_map<int,int> mpp;
+        map<int,int> mpp;
         for(auto it:arr){
             mpp[it]++;
         }
