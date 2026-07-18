@@ -21,6 +21,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0485-max-consecutive-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@
 | [0066-plus-one](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
