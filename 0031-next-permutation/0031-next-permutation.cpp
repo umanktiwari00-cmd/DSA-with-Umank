@@ -20,6 +20,10 @@ public:
                 break;
             }
          }
+
+
+
+         
          reverse(nums.begin()+idx+1,nums.end());
      }
 };
