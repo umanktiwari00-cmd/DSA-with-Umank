@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -32,6 +33,7 @@
 | [0229-majority-element-ii](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@
 | [0229-majority-element-ii](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 | ------- |
 | [0136-single-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
