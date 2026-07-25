@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
+| [3536-maximum-product-of-two-digits](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
