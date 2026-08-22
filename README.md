@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
