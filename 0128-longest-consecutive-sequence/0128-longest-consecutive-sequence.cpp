@@ -14,8 +14,9 @@ public:
                     x = x+1;
                     cnt++;
                 }
-                longest = max(cnt,longest);
+                
             }
+            longest = max(cnt,longest);
         }
         return longest;
     }
