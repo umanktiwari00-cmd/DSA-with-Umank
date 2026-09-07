@@ -55,6 +55,7 @@
 | [0031-next-permutation](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +117,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
