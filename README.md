@@ -28,6 +28,7 @@
 | [1470-shuffle-the-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
