@@ -14,7 +14,7 @@ public:
         if(head == NULL) return head;
         
         ListNode *temp = head;
-        ListNode *prev = head;
+        ListNode *prev = nullptr;
 
         
         while(temp) {
