@@ -122,11 +122,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
