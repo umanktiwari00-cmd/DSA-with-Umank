@@ -70,7 +70,8 @@ public:
         int cnt = 0;
 
         while (temp) {
-            if (cnt == index - 1) {
+            cnt++;
+            if (cnt == index) {
                 Node* newNode = new Node(val);
 
                 newNode->next = temp->next;
@@ -79,7 +80,6 @@ public:
                 return;
             }
 
-            cnt++;
             temp = temp->next;
         }
     }
