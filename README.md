@@ -25,6 +25,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
