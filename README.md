@@ -48,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -167,4 +170,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/2778-sum-of-squares-of-special-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
