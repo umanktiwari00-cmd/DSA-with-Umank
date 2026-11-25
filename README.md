@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0704-binary-search) |
+| [0997-find-the-town-judge](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -51,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0387-first-unique-character-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
