@@ -186,4 +186,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0997-find-the-town-judge) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
