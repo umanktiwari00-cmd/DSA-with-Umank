@@ -82,6 +82,7 @@
 | [0189-rotate-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3360-stone-removal-game](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -130,6 +131,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/umanktiwari00-cmd/DSA-with-Umank/tree/master/3360-stone-removal-game) |
 ## Union-Find
 |  |
 | ------- |
